@@ -2,12 +2,12 @@ sourceFile: src/task.py
 
 limits:
   time: 4000
-  memory: 64000
+  memory: 128000
 
 tasks:
   task_1:
     testedFunctionName: task_1
-    userInputFilename: dane4.txt
+    userInputFilename: dane.txt
     userOutputFilename: wyniki.txt
     checkTypes:
       FAST:
@@ -18,7 +18,7 @@ tasks:
         outputFilesDirectory: tests/task_1/full/out
   task_2:
     testedFunctionName: task_2
-    userInputFilename: dane4.txt
+    userInputFilename: dane.txt
     userOutputFilename: wyniki.txt
     checkTypes:
       FAST:
@@ -29,7 +29,7 @@ tasks:
         outputFilesDirectory: tests/task_2/full/out
   task_3:
     testedFunctionName: task_3
-    userInputFilename: dane4.txt
+    userInputFilename: dane.txt
     userOutputFilename: wyniki.txt
     checkTypes:
       FAST:

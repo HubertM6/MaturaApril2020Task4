@@ -8,7 +8,7 @@ Przykładowo - w czteroelementowym ciągi `5, 2, 7, 10` są trzy luki:
 
 *Największa luka* w tym ciągu ma wartość 5.
 
-W pliku `dane.txt` znajduje się ciąg złożony z 1000 dodatnich liczb całkowitych nie większych od 2 &middot; 10^9. Odpowiedzi zapisz w pliku `zadanie4.txt` lub wypisz na standardowe wyjście.
+W pliku `dane.txt` znajduje się ciąg złożony z 1000 dodatnich liczb całkowitych nie większych od 2 &middot; 10^9. Odpowiedzi zapisz w pliku `wyniki.txt` lub wypisz na standardowe wyjście.
 
 ## Zadanie 1
 Podaj wartość największej luki oraz wartość najmniejszej luki pomiędzy elementami ciągu z pliku `dane.txt`. Zapisz je **w osobnych wierszach**
