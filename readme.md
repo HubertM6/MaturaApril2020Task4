@@ -31,7 +31,7 @@ W powyższym przykładzie długość najdłuższego fragmentu regularnego jest r
 ## Zadanie 3
 *Krotnością* luki nazwiemy liczbę jej wystąpień. *Najczęstszą* luką nazywamy lukę o największej krotności.
 
-Przykładowo - w ciągu `5, 2, 7, 0` luka 5 ma krotność 1, luka 3 ma krotność 2 i wobec tego jest najczęstszą luką.
+Przykładowo - w ciągu `5, 2, 7, 10` luka 5 ma krotność 1, luka 3 ma krotność 2 i wobec tego jest najczęstszą luką.
 
 Podaj krotność najczęstszej luki oraz wartości wszystkich najczęstszych luk w ciągu z pliku `dane.txt` **w kolejności rosnącej**. Wszystkie wartości wypisz **w osobnych wierszach**
 
