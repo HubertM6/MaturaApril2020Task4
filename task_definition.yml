@@ -10,7 +10,7 @@ tasks:
     userInputFilename: dane.txt
     userOutputFilename: wyniki.txt
     maxPoints: 3
-    checkerFilename: checkers/task1checker.cpp
+    checkerFilename: "checkers/task1checker.cpp"
     checkTypes:
       EXAMPLE:
         inputFilesDirectory: tests/task_1/fast/in
@@ -23,7 +23,7 @@ tasks:
     userInputFilename: dane.txt
     userOutputFilename: wyniki.txt
     maxPoints: 4
-    checkerFilename: checkers/task2checker.cpp
+    checkerFilename: "checkers/task2checker.cpp"
     checkTypes:
       EXAMPLE:
         inputFilesDirectory: tests/task_2/fast/in
