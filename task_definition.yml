@@ -9,6 +9,7 @@ tasks:
     testedFunctionName: task_1
     userInputFilename: dane.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 3
     checkerFilename: checkers/task1checker.cpp
     checkTypes:
       EXAMPLE:
@@ -21,6 +22,7 @@ tasks:
     testedFunctionName: task_2
     userInputFilename: dane.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 4
     checkerFilename: checkers/task2checker.cpp
     checkTypes:
       EXAMPLE:
@@ -33,6 +35,7 @@ tasks:
     testedFunctionName: task_3
     userInputFilename: dane.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 3
     checkerFilename: null
     checkTypes:
       EXAMPLE:
